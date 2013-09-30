@@ -1,0 +1,28 @@
+{"description": "Responda às questões a seguir para checar o que você aprendeu sobre como encontrar dados",
+ "title":"Encontrando Dados - Quiz",
+ "formkey":"dHh5czNYaXI1REVnSm5QeDlxVzlKNGc6MA",
+ "questions":
+    [{"question":"Verdadeiro ou falso: Você pode achar bases de dados no Google usando +filetype:csv",
+      "answers":
+        [{"answer":"Falso"},
+         {"answer":"Verdadeiro","correct":true}
+         ]},
+      {"question":"Como obter dados não publicados do governo?",
+        "answers": 
+          [{"answer":"Por Pedidos de Acesso à Informação","correct":true},
+           {"answer":"Com a imprensa marrom"},
+           {"answer":"Por releases de imprensa"},
+           {"answer":"Na biblioteca de uma Universidade"}]},
+      {"question":"O que é um catálogo de dados?",
+        "answers":
+          [{"answer":"A service collecting datasets","correct":true},
+            {"answer":"Software to view data"},
+            {"answer":"Online shopping paradise"},
+            {"answer":"Datacatalogs are made of people!"}]},
+      {"question":"True or False: Governments are the only institution releasing data",
+        "answers":
+          [{"answer":"True"},
+            {"answer":"False","correct":true}
+            ]}
+     ]
+}
