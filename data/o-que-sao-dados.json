@@ -1,0 +1,30 @@
+{"description": "Você entendeu as categorias básicas dos dados? Que tipo de dado é este?",
+ "title":"O que são dados? Quiz",
+ "formkey":"dEdnSUQydWdTSEQ1MnktaVZKaEwxVkE6MA",
+ "questions":
+    [{"question":"Nome: Camila Pitanga",
+      "answers":
+        [{"answer":"Dado Quantitativo"},
+         {"answer":"Dado Qualitativo","correct":true},
+         {"answer":"Dado Discreto"},
+         {"answer":"Uhhmm, maçãs?"}]},
+      {"question":"Função: Atriz",
+        "answers": 
+          [{"answer":"Dado Quantitativo"},
+           {"answer":"Dado Contínuo"},
+           {"answer":"Dado Categórico","correct":true},
+           {"answer":"Maçã deve ser a resposta certa!"}]},
+      {"question":"Tamanho: 1,67cm",
+        "answers":
+          [{"answer":"Dado Contínuo","correct":true},
+            {"answer":"Dado Discreto"},
+            {"answer":"Dado Qualitativo"},
+            {"answer":"Dado Categórico"}]},
+      {"question":"Ano de nascimento: 1977",
+        "answers":
+          [{"answer":"Dado Categórico"},
+            {"answer":"Dado Discreto","correct":true},
+            {"answer":"Dado Qualitativo"},
+            {"answer":"Dado Contínuo"}]}
+     ]
+}
