@@ -15,14 +15,14 @@
            {"answer":"Na biblioteca de uma Universidade"}]},
       {"question":"O que é um catálogo de dados?",
         "answers":
-          [{"answer":"A service collecting datasets","correct":true},
-            {"answer":"Software to view data"},
-            {"answer":"Online shopping paradise"},
-            {"answer":"Datacatalogs are made of people!"}]},
-      {"question":"True or False: Governments are the only institution releasing data",
+          [{"answer":"Um serviço de coleta de conjuntos de dados","correct":true},
+            {"answer":"Um Software para visualizar dados"},
+            {"answer":"Um paraíso de compras online"},
+            {"answer":"Catálogo de dados é um grupo de pessoas"}]},
+      {"question":"Verdadeiro ou falso: Governos são as únicas instituições a liberar dados",
         "answers":
-          [{"answer":"True"},
-            {"answer":"False","correct":true}
+          [{"answer":"Verdadeiro"},
+            {"answer":"Falso","correct":true}
             ]}
      ]
 }
